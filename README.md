@@ -1,2 +1,2 @@
 # AiCop-Token
-Ecosistema blockchain respaldado por infraestructura.
+Sistema blockchain respaldado por proyectos inmobiliarios, digitales e industriales.
